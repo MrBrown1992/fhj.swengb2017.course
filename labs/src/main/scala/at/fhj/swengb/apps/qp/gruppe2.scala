@@ -6,6 +6,7 @@ object gruppe2 {
     println("hat ")
     println("heute ")
     println("alle ")
+    println("Studenten")
   }
 
 }
