@@ -5,5 +5,6 @@ object StillePost {
     println("Erste Message: Liebe Grüße!")
     println("Umständlichstes stille Post ever")
     println("Tsop Ellits")
+    println("wooooooochnende <3")
   }
 }
