@@ -7,6 +7,7 @@ object gruppe2 {
     println("heute ")
     println("alle ")
     println("Studenten")
+    (1 to 5).foreach(println)
   }
 
 }
