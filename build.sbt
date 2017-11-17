@@ -6,11 +6,11 @@ import BuildConstants._
 // main project
 lazy val course = (project in file(".")).
   settings(
-    organization := org,
-    scalaVersion := scalaVer,
-    version := buildVer,
-    name := "course",
-    libraryDependencies += scalaTest
+      organization := org,
+      scalaVersion := scalaVer,
+      version := buildVer,
+      name := "course",
+      libraryDependencies += scalaTest
   )
 
 // ------------------------------------------------------
