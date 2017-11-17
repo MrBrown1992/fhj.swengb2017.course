@@ -5,6 +5,7 @@ object gruppe2 {
     println("Die FH ")
     println("hat ")
     println("heute ")
+    println("alle ")
   }
 
 }
